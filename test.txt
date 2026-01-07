@@ -4,4 +4,6 @@ Now there is more content
 
 Let's add more!
 
+here is not a conflict
+
 here's a change
